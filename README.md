@@ -1,2 +1,2 @@
 # Perceptron
-Perceptron with early stopping 
+Dataset :  http://pages.cs.wisc.edu/~shavlik/cs540/HWs/HW0/
